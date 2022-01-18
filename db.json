@@ -1,12 +1,12 @@
 {
-        form: [
+        "form": [
         {
-          name: "Himanshu",
-          work: "true",
-          profession: "Developer",
-          address: "Gandhi Colony",
-          phone: "8449844583",
-          email: "his@gmail.com",
+          "name": "Himanshu",
+          "work": "true",
+          "profession": "Developer",
+          "address": "Gandhi Colony",
+          "phone": "8449844583",
+          "email": "his@gmail.com",
         }
       ]
 }
