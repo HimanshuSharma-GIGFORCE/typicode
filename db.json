@@ -1,9 +1,12 @@
-
-        {[
-          "name": "Himanshu",
-          "work": "true",
-          "profession": "Developer",
-          "address": "Gandhi Colony Muzaffarnagar",
-          "phone": "8449844583",
-          "email": "hishrma00@gmail.com"
-        ]}
+{
+        form: [
+        {
+          name: "Himanshu",
+          work: "true",
+          profession: "Developer",
+          address: "Gandhi Colony",
+          phone: "8449844583",
+          email: "his@gmail.com",
+        },
+      ],       
+}
