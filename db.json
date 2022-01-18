@@ -1,11 +1,10 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+        {
+          "name": "Himanshu",
+          "work": "true",
+          "profession": "Developer",
+          "address": "Gandhi Colony Muzaffarnagar",
+          "phone": "8449844583",
+          "email": "hishrma00@gmail.com"
+        },
+]
